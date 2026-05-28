@@ -36,6 +36,7 @@ Adlytics-AI-Agent/
 │── agent_ai.py            # AI agent for SQL generation
 │── setup.py               # Database setup script
 │── my_database.db         # SQLite database
+|── requirements.txt
 │── data/
 │   ├── product_ad_sales.csv
 │   ├── product_eligibility.csv
